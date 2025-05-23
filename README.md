@@ -1,13 +1,18 @@
 
 ### Hi there 👋 I'm Ahmed Mohammed!
 
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Front-End Devolper
 
-- 👨‍💻 I am currently learning React
-- 📚 Learning everything about Front-End technologies 😅
+### 💻 &nbsp;About Me 
+
+- 👨‍💻 &nbsp;  I am currently learning React.
+- 📚 &nbsp; Learning everything about Front-End technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+
+<br>
 
 ---
 
