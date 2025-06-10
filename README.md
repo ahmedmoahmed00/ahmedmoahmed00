@@ -5,12 +5,14 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
-### 💻 &nbsp;About Me 
+### About Me 
 
-- 👨‍💻 &nbsp;  I am currently learning React.
-- 📚 &nbsp; Learning everything about Front-End technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+Front-End Developer in training | Currently learning React
 
+Passionate about building responsive and interactive web interfaces.
+Focused on mastering Front-End technologies: HTML, CSS, JavaScript, React.
+
+Goal: Keep learning, keep building, never stop exploring.
 
 <br>
 
